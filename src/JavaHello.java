@@ -1,5 +1,3 @@
-package tools;
-
 public class JavaHello {
 
     private String text;

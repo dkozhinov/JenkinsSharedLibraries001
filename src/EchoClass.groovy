@@ -1,4 +1,4 @@
-package tools
+
 
 class EchoClass {
     static def printEcho(script, text) {
